@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am software developer who knows very little (nothing at all) about hardware. My main languages are JavaScript, Java, Python, and _**sometimes**_ Bash.
+I am software developer who knows very little about hardware. I am familliar with JavaScript and all the (client side) web related programming languages. I also seldom use Python, C, and Bash.
 
+I am currently learning **C** with **Emscripten**.
 
-Most recently I have been learning about how a GameBoy works, and espicially took interest in the video display, which lead me to create the [GameBoy Display Developement Toolchain](https://github.com/Buggem/gbddt), a project designed for reading Hexadecimal data as 'tiles'.
+My most recent project I have been working on a port of a port of Linuxxdoom, which you may have heard of. You can now play it online [here](https://buggem.github.io/sdl_doom_em), for free. Also, check out the code [here](https://github.com/Buggem/sdl_doom_em) if you want to learn about the ~~labor~~ hard work I put into this project
+
